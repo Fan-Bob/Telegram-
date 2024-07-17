@@ -1,0 +1,555 @@
+{
+  "exclusions": [
+    {
+      "dialogId": -1634615712,
+      "filterId": "e0bf9819-f9fc-47c1-8700-01e806c7319b"
+    },
+    {
+      "dialogId": -1534858685,
+      "filterId": "a171133e-08ba-46b4-944b-4c39ce201896"
+    },
+    {
+      "dialogId": -1534858685,
+      "filterId": "89204f5c-6a9f-4179-9498-9e882b2ef7a9"
+    },
+    {
+      "dialogId": -1266527176,
+      "filterId": "6f330557-c796-428d-889d-29d6d15dfa02"
+    },
+    {
+      "dialogId": -1905348589,
+      "filterId": "a171133e-08ba-46b4-944b-4c39ce201896"
+    }
+  ],
+  "filters": [
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "a171133e-08ba-46b4-944b-4c39ce201896",
+      "text": "/(\\b#AD\\b|#推广|#会员福利|#流媒体解锁|#机场推荐|\\bAD\\b|\\b推广\\b|#付费限时推广|神药|烟酒)/"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "ef1dcc4f-d8c1-4a98-aaf8-9a550a1be043",
+      "text": "广告投放——点击联系"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "d14b0f91-3565-49d6-b5ae-5bf3816e9b6e",
+      "text": "🎁 限时礼包码"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "91779007-4290-44be-bc07-048755c647bd",
+      "text": "云霄免税香烟"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "e0bf9819-f9fc-47c1-8700-01e806c7319b",
+      "text": "#广告"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "46dcfff3-7267-4ec5-8231-69169ab13415",
+      "text": "下单网站"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "b4963e6f-406d-4ce5-89b7-bd7221ca6928",
+      "text": "#特别推荐机场"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "4aeb9278-9b70-4a2b-b980-a271200cd034",
+      "text": "#推广"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "01189834-e59e-497f-a9a8-3cf882d3b25c",
+      "text": "官网：U8.COM"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "cef91a60-723b-4ab2-b900-9a2e1518c8df",
+      "text": "\n👉到货之后凭订单截图发送至"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "1f0a1f41-9691-4597-b255-47631be63ed5",
+      "text": "八云网络"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "5c98e833-9a2d-4eb8-87f9-975e2e090bca",
+      "text": "4k秒开"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "11593674-85b2-42e7-975a-61dc580ac4f8",
+      "text": "秒开4K"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "8303f98b-cc95-4f3e-ab5d-3d64179e8cec",
+      "text": "#付费限时推广"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "7d7193c1-db81-4166-894c-828c5c95bb2e",
+      "text": "宝藏电话卡/流量卡官网地址"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "89204f5c-6a9f-4179-9498-9e882b2ef7a9",
+      "text": "专线机场"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "4ef78cc2-124b-461e-8293-c2a0df9ed592",
+      "text": "印度药徒"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "60ea4c43-b6f1-4edc-921c-792bdb712aec",
+      "text": "免税香烟"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "3946a0b5-5ade-40d4-bc41-c3b40b6a3c8f",
+      "text": "猪猪老司机开车软件"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "6086b26e-edd3-4976-86f5-9bb951471ddb",
+      "text": "绅士资源合集"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "97916cfa-afaa-46e3-91f3-06abf96de28a",
+      "text": "付费VPN"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "91146528-99ed-4523-94ac-a31a0ebaec7b",
+      "text": "业务普遍当天or隔天出单"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "8ee7988b-cbe3-4322-86d6-343c49ea463b",
+      "text": "🔤🔤🔤🔤🔤🔤"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "1fae17b2-ff9d-44f2-96db-cd67348b439c",
+      "text": "家庭乱伦"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "49a39021-63c1-421b-88d2-f9d03294bbe5",
+      "text": "偷拍内容"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "7ff997db-e180-4a14-a4ab-1188505ab69e",
+      "text": "缅北色情揭秘"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "3c837332-fdbc-4679-9d8f-5c192bd1b34b",
+      "text": "Hysteria2协议"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "a88cd8c5-82db-4142-8470-243534ee2ec7",
+      "text": "开云体育"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "c153a2d1-27fb-4589-a8e2-286c933d7977",
+      "text": "老司机开車软件分享"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "68702b1a-1b4a-45dd-b235-b191797c2a9e",
+      "text": "耐克"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "6f330557-c796-428d-889d-29d6d15dfa02",
+      "text": "\nhttps://fuyezy.com"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "d6ba1c0b-2db4-4241-b66c-d6418645f8a1",
+      "text": "#付费限时推广"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "12a38dd6-cb83-4f99-8f6a-700f3bef97c5",
+      "text": "🎁 签到随机领取 0.0088 ~ 8.88 USDT红包"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "7b4b15ac-efef-4747-963c-3571811777f6",
+      "text": "官方频道 | 官方客服 | 玩家交流群"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "a66d4d46-8857-42eb-bf81-2b0503ee5c7b",
+      "text": "https://fuyezy.com/"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "76531562-1646-45ac-97bd-6081c57da161",
+      "text": "5个奥地利🇦🇹实卡可以接TG等软件，仅限24小时，便宜处理每个8RMB\n\n可单出! 单次接码！WS除外！\n\n需要dd"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "44e45df8-5db0-41e3-8551-ba37337b461b",
+      "text": "TG必备的搜索引擎，极搜帮你精准找到，想要的群组、频道、音乐 、视频\n"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "068539f1-1482-4cab-8a74-e68bcdf2866a",
+      "text": "山水云-全中转线路高速机场VPN"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "32bcac52-74b5-4cd1-b9ed-cc577166c4f8",
+      "text": "大额流量卡免费申领一键代理分享赚钱\n"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "d5e88b8e-1568-4508-a827-f116829a40d2",
+      "text": "TG最强鞋服复刻店SNKRX"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "576f5926-4aa3-409f-ab3e-22bca85ea061",
+      "text": "已收录到极搜搜索（90秒后自动删除"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "0f17834d-0fdf-4baf-8d1a-1445291b1f97",
+      "text": "\n1⃣ 苍岚烟业新店开业大酬宾"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "018ffeab-b1b8-4dae-8484-f47e116147f6",
+      "text": "#AI去衣"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "df391875-6a7a-4cf6-9a65-86fb64f83ab6",
+      "text": "1.你能用它来搜索电报上的所有资源包括但不限于：群/频道、音乐、电影、番号、图片......\n搜索指南 https://t.me/shumosearch/268"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "81f67637-7b63-4964-8691-fa0b8d7dcc7f",
+      "text": "主人请吩咐 #女仆 #私房 #丝袜"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "2de47c8e-268b-4551-9328-6f1c8d6e7c4f",
+      "text": "消息已收录到 @soso"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "3cd22fb9-6f0c-4c99-9d19-a091490b972a",
+      "text": "暗网搜索引擎"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "67031e3f-8574-4124-9714-cf898174616d",
+      "text": "#置底 广告位 @cosmosbreak"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "6a829f0b-7595-4be7-8506-6afb975c7179",
+      "text": "⭐️点击下方链接即刻注册⭐️\n👉👉点击注册👈👈"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "ae11427d-9ae5-4a1f-92d3-14d1a2ad0a11",
+      "text": "TG必备的搜索引擎群组，精准搜索群组、频道、影音、游戏等等资源"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "35c3de6c-80f7-4a88-8f24-e9d000fb3c0a",
+      "text": "同性恋"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "be4c5cb1-7ab7-45b4-a2f6-e00b9856a262",
+      "text": "黑人"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "185be4e3-1bc6-4bfa-aefb-b4ce7496c5e3",
+      "text": "🔤8️⃣🔤🔤🔤🔤携手全网第一飞投频道"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "552ea150-3fdf-4941-acb4-5db5f6e14913",
+      "text": "外烟正品香烟"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "2793aa28-bcda-453a-bf8f-f94ea34addbf",
+      "text": "VPN机场"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "48178489-210b-4cf9-b994-87837eb701e6",
+      "text": "提供知识星球社群"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "c4e6dfa0-444b-4592-83de-d5b8f572709f",
+      "text": "点击开始搜索你想要的资源"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "3822ff78-d212-4807-8ff9-9f75785c3725",
+      "text": "http://xiaobaicai.ziyun168.top/"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "a0e5b78a-ef86-4e9b-9e89-eb6c4843ed95",
+      "text": "购买点击下方"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "fdde0aaa-f03d-48c0-855d-4b193ca8bb51",
+      "text": "铭记历史"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "bd128800-476b-4911-9c08-5da909bf7991",
+      "text": "扫图一付款即可"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "67691d18-6dcd-485f-8e48-4462cebbb32f",
+      "text": "@hhpzbot"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "4332100d-3872-4214-8bed-974ef4951081",
+      "text": "https://faka.ffkjwl.com"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "5f092e6e-2418-4410-9b9f-06e624957d45",
+      "text": "faka.ffkjwl.com"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "dbc39512-c178-4241-b3b7-c4060b23ffa6",
+      "text": "#APatch"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "1a33053d-d864-4663-a674-8206a1136dab",
+      "text": "暗网搜索bot"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "08748a51-edf4-49b0-8d7f-f37c0a9fb719",
+      "text": "宝藏流量卡每日上新"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "aadb4001-598b-4542-995d-76520728a9cb",
+      "text": "麒麟芯片"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "bb7574a9-3af8-441f-ab10-1fbad9673681",
+      "text": "已收录（2秒后自动销毁）"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "d17b3df7-a2ea-4da8-bc3f-780f3f2ac186",
+      "text": "Vidhub苹果商店下载链接"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "2ee5cf7f-fd42-49a3-93b9-fc96ba7c778e",
+      "text": "习近平"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "dba3b218-ab9d-4997-bc5f-d18c900ee165",
+      "text": "流媒体解锁"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "0b81d399-61bf-4de5-bdde-f1d130dc08bf",
+      "text": "社工机器人"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "e618fc67-eea9-41a3-8594-92f1a8c00901",
+      "text": "IPLC"
+    },
+    {
+      "caseInsensitive": true,
+      "dialogId": null,
+      "enabled": true,
+      "id": "643a96d7-522c-41d7-9b2d-538320ee342c",
+      "text": "#川普"
+    }
+  ],
+  "peers": {},
+  "removeExclusions": null,
+  "removeFiltersById": null,
+  "version": 1
+}
